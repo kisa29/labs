@@ -16,6 +16,7 @@ public class ChatRoomDriverFX extends Application {
 	public static void main(String[] args) {
 		launch(args);   
 	}
+	
 		   
 	/**
 	 * Called from launch(...) of program's main method.  This is the starting point
