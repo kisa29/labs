@@ -113,5 +113,6 @@ public class ChatRoomMainFX extends BorderPane {
 		
 
 	}
+	
 }
 	
