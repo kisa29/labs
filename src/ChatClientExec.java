@@ -12,6 +12,7 @@
  * line beginning with "MESSAGE " then all characters following
  * this string should be displayed in its message area.
  */
+
 public class ChatClientExec implements ChatClientExecInterface {
 
     private int CHAT_ROOM_PORT=0;
